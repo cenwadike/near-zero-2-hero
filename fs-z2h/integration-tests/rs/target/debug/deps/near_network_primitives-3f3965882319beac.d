@@ -1,0 +1,9 @@
+/home/ce/NEAR/playground/zero_to_hero/fs-z2h/integration-tests/rs/target/debug/deps/near_network_primitives-3f3965882319beac.rmeta: /home/ce/.cargo/registry/src/github.com-1ecc6299db9ec823/near-network-primitives-0.12.0/src/lib.rs /home/ce/.cargo/registry/src/github.com-1ecc6299db9ec823/near-network-primitives-0.12.0/src/config.rs /home/ce/.cargo/registry/src/github.com-1ecc6299db9ec823/near-network-primitives-0.12.0/src/network_protocol/mod.rs /home/ce/.cargo/registry/src/github.com-1ecc6299db9ec823/near-network-primitives-0.12.0/src/network_protocol/edge.rs /home/ce/.cargo/registry/src/github.com-1ecc6299db9ec823/near-network-primitives-0.12.0/src/types.rs
+
+/home/ce/NEAR/playground/zero_to_hero/fs-z2h/integration-tests/rs/target/debug/deps/near_network_primitives-3f3965882319beac.d: /home/ce/.cargo/registry/src/github.com-1ecc6299db9ec823/near-network-primitives-0.12.0/src/lib.rs /home/ce/.cargo/registry/src/github.com-1ecc6299db9ec823/near-network-primitives-0.12.0/src/config.rs /home/ce/.cargo/registry/src/github.com-1ecc6299db9ec823/near-network-primitives-0.12.0/src/network_protocol/mod.rs /home/ce/.cargo/registry/src/github.com-1ecc6299db9ec823/near-network-primitives-0.12.0/src/network_protocol/edge.rs /home/ce/.cargo/registry/src/github.com-1ecc6299db9ec823/near-network-primitives-0.12.0/src/types.rs
+
+/home/ce/.cargo/registry/src/github.com-1ecc6299db9ec823/near-network-primitives-0.12.0/src/lib.rs:
+/home/ce/.cargo/registry/src/github.com-1ecc6299db9ec823/near-network-primitives-0.12.0/src/config.rs:
+/home/ce/.cargo/registry/src/github.com-1ecc6299db9ec823/near-network-primitives-0.12.0/src/network_protocol/mod.rs:
+/home/ce/.cargo/registry/src/github.com-1ecc6299db9ec823/near-network-primitives-0.12.0/src/network_protocol/edge.rs:
+/home/ce/.cargo/registry/src/github.com-1ecc6299db9ec823/near-network-primitives-0.12.0/src/types.rs:
