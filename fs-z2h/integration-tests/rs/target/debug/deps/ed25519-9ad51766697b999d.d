@@ -1,6 +1,0 @@
-/home/ce/NEAR/playground/zero_to_hero/fs-z2h/integration-tests/rs/target/debug/deps/ed25519-9ad51766697b999d.rmeta: /home/ce/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-1.5.2/src/lib.rs /home/ce/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-1.5.2/src/../README.md
-
-/home/ce/NEAR/playground/zero_to_hero/fs-z2h/integration-tests/rs/target/debug/deps/ed25519-9ad51766697b999d.d: /home/ce/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-1.5.2/src/lib.rs /home/ce/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-1.5.2/src/../README.md
-
-/home/ce/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-1.5.2/src/lib.rs:
-/home/ce/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-1.5.2/src/../README.md:
