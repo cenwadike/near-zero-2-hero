@@ -1,0 +1,10 @@
+/home/ce/NEAR/playground/z2h/ft-z2H/target/debug/deps/libparity_scale_codec_derive-7e98c4522f918b84.so: /home/ce/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/lib.rs /home/ce/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/decode.rs /home/ce/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/encode.rs /home/ce/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/max_encoded_len.rs /home/ce/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/utils.rs /home/ce/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/trait_bounds.rs
+
+/home/ce/NEAR/playground/z2h/ft-z2H/target/debug/deps/parity_scale_codec_derive-7e98c4522f918b84.d: /home/ce/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/lib.rs /home/ce/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/decode.rs /home/ce/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/encode.rs /home/ce/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/max_encoded_len.rs /home/ce/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/utils.rs /home/ce/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/trait_bounds.rs
+
+/home/ce/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/lib.rs:
+/home/ce/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/decode.rs:
+/home/ce/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/encode.rs:
+/home/ce/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/max_encoded_len.rs:
+/home/ce/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/utils.rs:
+/home/ce/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/trait_bounds.rs:

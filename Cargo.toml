@@ -1,6 +1,6 @@
 [package]
 edition = "2021"
-name = "ft-z2H"
+name = "ft_z2H"
 version = "0.1.0"
 
 [lib]
